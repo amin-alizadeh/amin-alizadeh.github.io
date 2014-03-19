@@ -1905,7 +1905,7 @@ body > .ui.grid {
 
 .ui.secondary.menu .dropdown.item .menu {
   left: 0px;
-  min-width: 100%;
+  min-width: 120%;
 }
 
 .ui.menu .pointing.dropdown.item .menu {
